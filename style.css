@@ -1,23 +1,24 @@
-table, th, td {
+table {
+    border-collapse:separate;
+    border:solid 1px;
+    border-radius:6px;
+}
+
+td, th {
+    border-left:solid 1px;
+    border-top:solid 1px;
+}
+
+th {
+    border-top: none;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}
+
+.alignment-and-font {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-collapse: collapse;
-    border: 1px solid;
-    position: relative;
-}
-
-p {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-h1{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-#site-img {
-    property: value;
-}
-
-.center {
     margin-left: auto;
     margin-right: auto;
 }
