@@ -1,13 +1,13 @@
-table, th, td {
-    font-family:'Courier New', Courier, monospace;
+#site-table {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-collapse: collapse;
     border: 1px solid;
 }
 
-p {
-    font-family:'Courier New', Courier, monospace;
+#site-paragraph {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h1{
-    font-family:'Courier New', Courier, monospace;
+#site-h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
