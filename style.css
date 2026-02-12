@@ -2,6 +2,7 @@ table, th, td {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-collapse: collapse;
     border: 1px solid;
+    position: relative;
 }
 
 p {
@@ -10,4 +11,13 @@ p {
 
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#site-img {
+    property: value;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
