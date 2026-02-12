@@ -1,4 +1,13 @@
 table, th, td {
-  border-collapse: collapse;
-  border: 1px solid;
+    font-family:'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
 }
