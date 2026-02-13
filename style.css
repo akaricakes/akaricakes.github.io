@@ -20,6 +20,7 @@ p {
 
 table {
     border-collapse: separate;
+    border: none;
     border-radius: 6px;
     width: 100%;
 }
