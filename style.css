@@ -19,13 +19,15 @@ p {
 }
 
 table {
+    border-collapse: separate;
     width: 100%;
 }
 
-.center {
+#center {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 .table-left {
     text-align: left;
