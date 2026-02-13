@@ -4,7 +4,8 @@ body {
 }
 
 header {
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 hr {
@@ -26,12 +27,6 @@ table {
 ul {
     margin: 0;
 }
-
-#center {
-    margin-left: auto;
-    margin-right: auto;
-}
-
 
 .table-left {
     text-align: left;
