@@ -25,49 +25,17 @@ table {
     width: 100%;
 }
 
-ul {
-    margin: 0;
-}
-
-.center {
+#center {
     margin-left: auto;
     margin-right: auto;
 }
 
-#space-between {
-    justify-content: space-between;
-}
-
-.contact {
-    margin: 0;
-    padding: 0;
-}
-
-.name {
-    margin: 0;
-    padding: 0;
-}
-
-.section-headers {
-    margin: 0;
-    padding: 0;
-}
-
-.section-items {
-    margin-bottom: 20px;
-    margin-left: 20px;
-}
-
-.table-left-columns {
+.table-left {
     text-align: left;
 }
 
-.table-right-columns {
+.table-right {
     text-align: right;
-}
-
-.inline {
-    display: inline-block;
 }
 
 img {
