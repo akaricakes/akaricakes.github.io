@@ -3,6 +3,12 @@ body {
     width: 90%;
 }
 
+h2 
+{
+    margin: 0;
+    padding: 0; 
+}
+
 hr {
     margin: 0;
     padding: 0; 
@@ -38,6 +44,7 @@ ul {
 
 .edex-section {
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 img {
