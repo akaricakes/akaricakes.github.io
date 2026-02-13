@@ -17,6 +17,11 @@ hr {
     padding: 0; 
 }
 
+p {
+    margin: 0;
+    padding: 0; 
+}
+
 table {
     border-collapse: separate;
     border-radius: 6px;
