@@ -3,7 +3,7 @@ body {
     width: 90%;
 }
 
-h3 {
+h2 {
     margin: 0;
     padding: 0; 
 }
@@ -29,6 +29,7 @@ ul {
 }
 
 #center {
+    
     text-align: center;
 }
 
