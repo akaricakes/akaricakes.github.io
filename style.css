@@ -29,15 +29,33 @@ ul {
     margin: 0;
 }
 
-#center {
+#space-between {
+    justify-content: space-between;
+}
+
+.center {
     margin-left: auto;
     margin-right: auto;
 }
 
-.section-items {
-    margin-top: 10px;
-    margin-bottom: 10px;
+.contact {
+    margin: 0;
     padding: 0;
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+}
+
+.section-headers {
+    margin: 0;
+    padding: 0;
+}
+
+.section-items {
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 .table-left-columns {
