@@ -63,6 +63,8 @@ img {
     border-radius: 10%;
 }
 
+/*I ended up choosing the ID selector below because it provided 
+more specificity and leniency in formatting / styling my asset.*/
 #image {
     width: 300px;
     height: 300px;
