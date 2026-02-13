@@ -19,7 +19,7 @@ p {
 }
 
 table {
-    border-collapse: separate;
+    border-collapse: collapse;
     border-radius: 6px;
     width: 100%;
 }
