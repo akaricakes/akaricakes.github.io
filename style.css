@@ -34,13 +34,8 @@ ul {
 }
 
 .sections {
-    margin: 0;
+    margin-bottom: 0;
     padding: 0;
-}
-
-.section-items {
-    margin-bottom: 20px;
-    margin-left: 20px;
 }
 
 .table-left-columns {
