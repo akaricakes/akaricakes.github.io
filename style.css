@@ -33,21 +33,7 @@ ul {
     justify-content: space-between;
 }
 
-.center {
-    text-align: center;
-}
-
-.contact {
-    margin: 0;
-    padding: 0;
-}
-
-.name {
-    margin: 0;
-    padding: 0;
-}
-
-.section-headers {
+.sections {
     margin: 0;
     padding: 0;
 }
