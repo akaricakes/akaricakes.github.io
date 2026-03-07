@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 a {
     text-align: center;
 }
@@ -66,6 +72,13 @@ ul {
     margin-top: 10px;
     margin-bottom: 20px;
     padding: 0%;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #38bdf8;
+    letter-spacing: 1px;
 }
 
 .nav-links {
