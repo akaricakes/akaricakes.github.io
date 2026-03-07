@@ -7,10 +7,6 @@ body {
     width: 90%;
 }
 
-header {
-    text-align: center;
-}
-
 h1
 {
     margin: 20px;
@@ -23,9 +19,26 @@ h2
     padding: 0; 
 }
 
+header {
+    text-align: center;
+}
+
 hr {
     margin: 0;
     padding: 0; 
+}
+
+nav {
+    width: 100%;
+    padding: 1rem 5%;
+    background: rgba(255, 255, 255, 0.05);
+    border-bottom: solid 1px rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+    margin-bottom: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 p {
@@ -49,18 +62,39 @@ ul {
     margin-right: auto;
 }
 
+.edex-section {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 0%;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-links li a {
+    position: relative;
+    font-size: 1.05rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: #e2e8f0;
+    transition: 0.3s;
+}
+
+.nav-links li a:hover {
+    color: #38bdf8;
+    text-shadow: 0 0 10px #38bdf8;
+
+}
+
 .table-left {
     text-align: left;
 }
 
 .table-right {
     text-align: right;
-}
-
-.edex-section {
-    margin-top: 10px;
-    margin-bottom: 20px;
-    padding: 0%;
 }
 
 img {
@@ -70,7 +104,7 @@ img {
 }
 
 /*I ended up choosing the ID selector below because it provided 
-more specificity and leniency in formatting / styling my asset.*/
+more specificity (1, 0, 0) and leniency in formatting / styling my asset.*/
 #image {
     width: 300px;
     height: 300px;
