@@ -13,10 +13,15 @@ a {
     text-align: center;
 }
 
+b {
+    color:#BA6B57;
+}
+
 body {
     margin: 5%;
     width: 90%;
     background-color: #F2E1C9;
+    color: #E0A387;
 }
 
 h1
@@ -103,7 +108,7 @@ ul {
     font-size: 1.05rem;
     font-weight: 500;
     text-decoration: none;
-    color: #BA6B57;
+    color: #E0A387;
     transition: 0.3s;
 }
 
