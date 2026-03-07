@@ -16,6 +16,7 @@ a {
 body {
     margin: 5%;
     width: 90%;
+    background-color: #F2E1C9;
 }
 
 h1
@@ -87,7 +88,7 @@ ul {
 .logo {
     font-size: 1.8rem;
     font-weight: 700;
-    color: #38bdf8;
+    color: #BA6B57;
     letter-spacing: 1px;
     margin-right: auto;
 }
@@ -103,13 +104,13 @@ ul {
     font-size: 1.05rem;
     font-weight: 500;
     text-decoration: none;
-    color: #e2e8f0;
+    color: #BA6B57;
     transition: 0.3s;
 }
 
 .nav-links li a:hover {
-    color: #38bdf8;
-    text-shadow: 0 0 10px #38bdf8;
+    color: #FAF5D5;
+    text-shadow: 0 0 10px #FAF5D5;
 
 }
 
