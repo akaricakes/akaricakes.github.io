@@ -96,8 +96,8 @@ ul {
 }
 
 #gallery-item {
-    width: 100%;
-    height: auto;
+    width: 600rem;
+    height: 500rem;
 }
 
 .nav-links li a {
