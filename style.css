@@ -90,14 +90,14 @@ ul {
   padding: 10px;
 }
 
-.gallery {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  padding: 10px;
-}
 .gallery div {
   padding: 10px;
   justify-content: center;
+}
+
+.gallery-item {
+width: 100%;
+  height: auto;
 }
 
 .nav-links li a {
