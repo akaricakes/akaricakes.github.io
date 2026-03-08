@@ -11,7 +11,6 @@
 
 a {
     text-align: center;
-    color:#BA6B57;
 }
 
 b {
@@ -74,6 +73,7 @@ table {
     border-collapse: separate;
     border: none;
     width: 100%;
+    border-color:#F2E1C9;
 }
 
 ul {
@@ -88,9 +88,13 @@ ul {
     background: #FFFFFF;
 }
 
+.nav-links li a {
+    color: #E0A387;
+}
+
 .contact-links li a:hover {
-    color: #FAF5D5;
-    text-shadow: 0 0 10px #E0A387;
+    color: #F2E1C9;
+    text-shadow: 0 0 10px #F2E1C9;
 }
 
 .edex-section {
@@ -125,8 +129,8 @@ ul {
 }
 
 .nav-links li a:hover {
-    color: #FAF5D5;
-    text-shadow: 0 0 10px #E0A387;
+    color: #F2E1C9;
+    text-shadow: 0 0 10px #F2E1C9;
 
 }
 
