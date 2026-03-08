@@ -11,6 +11,7 @@
 
 a {
     text-align: center;
+    color:#BA6B57;
 }
 
 b {
@@ -87,6 +88,11 @@ ul {
     background: #FFFFFF;
 }
 
+.contact-links li a:hover {
+    color: #FAF5D5;
+    text-shadow: 0 0 10px #E0A387;
+}
+
 .edex-section {
     width: 100%;
     padding: 1rem 5%;
@@ -120,7 +126,7 @@ ul {
 
 .nav-links li a:hover {
     color: #FAF5D5;
-    text-shadow: 0 0 10px #FAF5D5;
+    text-shadow: 0 0 10px #E0A387;
 
 }
 
