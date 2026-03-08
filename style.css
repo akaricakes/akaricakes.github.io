@@ -85,19 +85,19 @@ ul {
 }
 
 .gallery {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
 }
 
 .gallery div {
-  padding: 10px;
-  justify-content: center;
+    padding: 10px;
+    justify-content: center;
 }
 
-.gallery-item {
-width: 100%;
-  height: auto;
+#gallery-item {
+    width: 100%;
+    height: auto;
 }
 
 .nav-links li a {
@@ -167,7 +167,7 @@ img {
 
 /*I ended up choosing the ID selector below because it provided 
 more specificity (1, 0, 0) and leniency in formatting / styling my asset.*/
-#image {
+#akari {
     width: 300rem;
     height: 300rem;
     padding: 10rem;
