@@ -95,7 +95,7 @@ ul {
     justify-content: center;
 }
 
-.gallery-item {
+.gallery-item img {
     width: 650px;
     height: 550px;
     border-radius: 10%;
