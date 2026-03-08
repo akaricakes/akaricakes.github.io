@@ -1,3 +1,12 @@
+# REFLECTION FOR HOMEWORK #1, WRITTEN ON 02/12/26
 1. HTTP requests retrieval of some source from the GitHub server, where https://akaricakes.github.io/ is the URI (Uniform Resource Identifier, a string that identifies a resource on the web via location, name, or both. Source: https://www.geeksforgeeks.org/computer-networks/difference-between-url-and-uri/) of the resource we want. This URI corresponds to a file on the drive of the server. When we successfully receive the information we want, we will get a 200 code followed by the content of my GitHub webpage. (Used https://runestone.academy/ns/books/published/webfundamentals/WWW/technology.html as a reference for this response.)
 2. Docker Containers are used for the easy and simple deployment of applications, whereas the GitHub Pages environment prioritizes collaboration and repository management.
 3. I did not use GenAI for this homework assignment. All of the information used for this assignment were derived from the supplementaries provided in class (i.e. Girl Develop It slides) and the W3 Schools webpages.
+
+# REFLECTION FOR HOMEWORK #2, WRITTEN ON 03/08/26
+1. Flex-direction: row orders items horizontally. Flex-direction: column orders items vertically. For both of these, elements appear on the left-hand side of the flexbox. Only the -reverse direction would make the elements appear on the right-hand side. Source: [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/flex-direction)
+2. Relative units help scale text elements appropriately whenever tab is zoomed in / out. Fixed units - though consistent in sizing - wouldn't be as responsive. Source: [Font sizing with rem](https://web.archive.org/web/20220731000819/https://snook.ca/archives/html_and_css/font-size-with-rem)
+3. I did not use GenAI for this homework assignment. All of the information used for this assignment were derived from the following YouTube videos:
+    [Navbar CSS Tutorial: 5 Ways to Create a Navigation Bar with Flexbox](https://www.youtube.com/watch?v=HmaQwuKUYTc), 
+    [How to Add Custom Fonts In HTML & CSS by Kenny Yip Coding](https://www.youtube.com/watch?v=F0xBK4Z2UB4),
+and the W3 Schools webpages.

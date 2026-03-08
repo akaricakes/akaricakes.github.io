@@ -9,11 +9,6 @@
     box-sizing: border-box;
 }
 
-a {
-    text-align: center;
-    color:#BA6B57;
-}
-
 b {
     color:#BA6B57;
 }
@@ -100,10 +95,6 @@ ul {
   width: 180px;
 }
 
-.gallery-item:hover {
-  border: 1px solid #E0A387;
-}
-
 .gallery-item img {
   width: 100%;
   height: auto;
@@ -116,6 +107,11 @@ ul {
 
 .nav-links li a {
     color: #E0A387;
+}
+
+.contact-links {
+    color: #BA6B57;    
+    text-align: center;
 }
 
 .contact-links li a:hover {
@@ -177,8 +173,8 @@ img {
 /*I ended up choosing the ID selector below because it provided 
 more specificity (1, 0, 0) and leniency in formatting / styling my asset.*/
 #image {
-    width: 300px;
-    height: 300px;
+    width: 300rem;
+    height: 300rem;
     padding: 10rem;
     border-radius: 5%;
     text-align: center;
