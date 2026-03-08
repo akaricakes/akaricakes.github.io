@@ -114,7 +114,7 @@ a.contact-links {
     text-align: center;
 }
 
-a.contact-links li a:hover {
+a.contact-links:hover {
     color: #F2E1C9;
     text-shadow: 0 0 10px #F2E1C9;
 }
