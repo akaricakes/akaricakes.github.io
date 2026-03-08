@@ -6,7 +6,8 @@
 # REFLECTION FOR HOMEWORK #2, WRITTEN ON 03/08/26
 1. Flex-direction: row orders items horizontally. Flex-direction: column orders items vertically. For both of these, elements appear on the left-hand side of the flexbox. Only the -reverse direction would make the elements appear on the right-hand side. Source: [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/flex-direction)
 2. Relative units help scale text elements appropriately whenever tab is zoomed in / out. Fixed units - though consistent in sizing - wouldn't be as responsive. Source: [Font sizing with rem](https://web.archive.org/web/20220731000819/https://snook.ca/archives/html_and_css/font-size-with-rem)
-3. I did not use GenAI for this homework assignment. All of the information used for this assignment were derived from the following YouTube videos:
+3. I did not use GenAI for this homework assignment. All of the information used for this assignment were derived from the following YouTube videos (listed in use order):
     [Navbar CSS Tutorial: 5 Ways to Create a Navigation Bar with Flexbox](https://www.youtube.com/watch?v=HmaQwuKUYTc), 
     [How to Add Custom Fonts In HTML & CSS by Kenny Yip Coding](https://www.youtube.com/watch?v=F0xBK4Z2UB4),
-and the W3 Schools webpages.
+    [Build Responsive CSS Layouts with CSS GRID ~ Beginner Tutorial](https://www.youtube.com/watch?v=8p0OblRuhd0), 
+and the W3 Schools webpages. All in all, I can say I actually really enjoyed doing this homework and had a lot of fun with it. I gave myself way more time this time around to implement new fonts and formatting, which ended up looking super pretty!
