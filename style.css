@@ -86,10 +86,13 @@ ul {
 }
 
 .edex-section {
-    margin-top: 10px;
-    margin-bottom: 20px;
-    padding: 0%;
-    background-color: #FFFFFF;
+    width: 100%;
+    padding: 1rem 5%;
+    background: #FFFFFF;
+    backdrop-filter: blur(15px);
+    margin-bottom: 2rem;
+
+    display: flex;
 }
 
 .logo {
