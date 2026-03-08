@@ -90,14 +90,12 @@ ul {
   padding: 10px;
 }
 
-.gallery-item {
-  margin: 5px;
-  width: 180px;
-}
-
 .gallery-item img {
   width: 100%;
   height: auto;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
 }
 
 .gallery-item desc {
