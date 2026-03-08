@@ -87,19 +87,14 @@ ul {
 .gallery {
     display: grid;
     grid-template-columns: auto auto auto;
-    padding: 10%;
-}
-
-.gallery div {
-    padding: 5rem;
     justify-content: center;
-    padding: 10px;
 }
 
 .gallery-item {
     width: 500px;
     height: 400px;
     border-radius: 10%;
+    padding: 5%;
 }
 
 .nav-links li a {
