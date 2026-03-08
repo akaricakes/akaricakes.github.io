@@ -105,7 +105,7 @@ ul {
     }
 
     .col {
-        background-color: #F2E1C9;
+        background-color: #FFFFFF;
         padding: 16px;
     }
 }
@@ -114,6 +114,7 @@ ul {
     display: block;
     width: 100%;
     max-width: 100%;
+    border-radius: 10%;
 }
 
 .nav-links li a {
