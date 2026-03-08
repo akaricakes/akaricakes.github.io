@@ -96,8 +96,9 @@ ul {
 }
 
 #gallery-item {
-    width: 600rem;
-    height: 500rem;
+    width: 650px;
+    height: 550px;
+    border-radius: 10%;
 }
 
 .nav-links li a {
@@ -148,7 +149,6 @@ a.contact-links:hover {
 .nav-links li a:hover {
     color: #F2E1C9;
     text-shadow: 0 0 10px #F2E1C9;
-
 }
 
 .table-left {
