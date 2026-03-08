@@ -92,8 +92,6 @@ ul {
     background: #FFFFFF;
     backdrop-filter: blur(15px);
     margin-bottom: 2rem;
-
-    display: flex;
 }
 
 .logo {
