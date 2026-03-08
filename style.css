@@ -93,6 +93,7 @@ ul {
 .gallery div {
     padding: 5rem;
     justify-content: center;
+    padding: 10px;
 }
 
 .gallery-item {
