@@ -143,8 +143,7 @@ more specificity (1, 0, 0) and leniency in formatting / styling my asset.*/
 #image {
     width: 300px;
     height: 300px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding: 10rem;
     border-radius: 5%;
     text-align: center;
 }
