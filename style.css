@@ -87,7 +87,7 @@ ul {
 .gallery {
     display: grid;
     grid-template-columns: auto auto auto;
-    padding: 10rem;
+    padding: 10%;
 }
 
 .gallery div {
@@ -96,8 +96,8 @@ ul {
 }
 
 .gallery-item img {
-    width: 800rem;
-    height: 700rem;
+    width: 800px;
+    height: 700px;
     border-radius: 10%;
 }
 
