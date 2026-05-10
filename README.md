@@ -1,6 +1,6 @@
 # csci 39548 ; homework #1 and #2
 
-The initial assignment had us make a basic outline of our resume. The second assignment sought to improve the CSS / styling for the website, along with adding a navbar and other features.
+The initial assignment had us make a basic outline of our resume. The second assignment sought to improve the styling for the website, along with adding a navbar and other features.
 
 For the second homework submission, I used three tutorials:
 
